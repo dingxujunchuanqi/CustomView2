@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\CustomView2\\ScrollTest\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\AndroidStudioProjects\\CustomView2\\ScrollTest\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\githubSoft\\test2\\CustomView2\\ScrollTest\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\githubSoft\\test2\\CustomView2\\ScrollTest\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\CustomView\\ScrollTest\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\AndroidStudioProjects\\CustomView\\ScrollTest\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

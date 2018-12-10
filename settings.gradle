@@ -1,0 +1,2 @@
+include ':app', ':01优酷菜单', ':PropertyAnimation', ':02广告条效果-viewpager', ':03下拉框', ':04自定义开关', ':myapplication', ':EventTest', ':05自定义属性', ':06仿viewpager', ':ScrollTest', ':事件分发小案例', ':07联系人快速索引', ':EventTest2', ':08侧滑菜单', ':09水波纹', ':水波纹完整版', ':atGuiguEmpire', ':练习一'
+include ':cusViewPager02'

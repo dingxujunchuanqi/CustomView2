@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\githubSoft\\test2\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\githubSoft\\test2\\CustomView2\\事件分发小案例\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\CustomView\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\CustomView\\事件分发小案例\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\CustomView2\\事件分发小案例\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

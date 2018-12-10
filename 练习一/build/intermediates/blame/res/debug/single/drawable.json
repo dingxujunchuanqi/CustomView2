@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\githubSoft\\test2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable\\item_menu_bg.xml",
+        "source": "E:\\githubSoft\\test2\\CustomView2\\练习一\\src\\main\\res\\drawable\\item_menu_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\CustomView\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable\\item_menu_bg.xml",
+        "source": "C:\\AndroidStudioProjects\\CustomView\\练习一\\src\\main\\res\\drawable\\item_menu_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable\\item_menu_bg.xml",
+        "source": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\src\\main\\res\\drawable\\item_menu_bg.xml"
+    }
+]

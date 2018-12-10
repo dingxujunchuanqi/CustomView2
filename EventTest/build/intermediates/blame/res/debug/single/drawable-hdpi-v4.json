@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\CustomView\\EventTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm.jpg",
+        "source": "C:\\AndroidStudioProjects\\CustomView\\EventTest\\src\\main\\res\\drawable-hdpi\\mm.jpg"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\CustomView2\\EventTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm.jpg",
+        "source": "C:\\AndroidStudioProjects\\CustomView2\\EventTest\\src\\main\\res\\drawable-hdpi\\mm.jpg"
+    },
+    {
+        "merged": "E:\\githubSoft\\test2\\CustomView2\\EventTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\githubSoft\\test2\\CustomView2\\EventTest\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\CustomView2\\EventTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\CustomView2\\EventTest\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\githubSoft\\test2\\CustomView2\\EventTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm.jpg",
+        "source": "E:\\githubSoft\\test2\\CustomView2\\EventTest\\src\\main\\res\\drawable-hdpi\\mm.jpg"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\CustomView\\EventTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\CustomView\\EventTest\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
