@@ -1,31 +1,11 @@
 [
     {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_read.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\tab_read.png"
+        "merged": "E:\\githubSoft\\test2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_focus.png",
+        "source": "E:\\githubSoft\\test2\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\tab_focus.png"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_read.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\练习一\\src\\main\\res\\drawable-hdpi\\tab_read.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_bg.jpg",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\练习一\\src\\main\\res\\drawable-hdpi\\menu_bg.jpg"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_vote.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\tab_vote.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_vote.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\练习一\\src\\main\\res\\drawable-hdpi\\tab_vote.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bar_divider.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\练习一\\src\\main\\res\\drawable-hdpi\\top_bar_divider.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_ugc.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\练习一\\src\\main\\res\\drawable-hdpi\\tab_ugc.png"
+        "merged": "E:\\githubSoft\\test2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_back.png",
+        "source": "E:\\githubSoft\\test2\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\main_back.png"
     },
     {
         "merged": "E:\\githubSoft\\test2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bar_bg.png",
@@ -36,92 +16,12 @@
         "source": "E:\\githubSoft\\test2\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\tab_ties.png"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_focus.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\练习一\\src\\main\\res\\drawable-hdpi\\tab_focus.png"
-    },
-    {
         "merged": "E:\\githubSoft\\test2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_news.png",
         "source": "E:\\githubSoft\\test2\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\tab_news.png"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_local.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\练习一\\src\\main\\res\\drawable-hdpi\\tab_local.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_focus.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\tab_focus.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_ugc.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\tab_ugc.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_back.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\练习一\\src\\main\\res\\drawable-hdpi\\main_back.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_back.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\main_back.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bar_bg.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\top_bar_bg.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_ties.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\练习一\\src\\main\\res\\drawable-hdpi\\tab_ties.png"
-    },
-    {
-        "merged": "E:\\githubSoft\\test2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bar_divider.png",
-        "source": "E:\\githubSoft\\test2\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\top_bar_divider.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_ties.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\tab_ties.png"
-    },
-    {
-        "merged": "E:\\githubSoft\\test2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_ugc.png",
-        "source": "E:\\githubSoft\\test2\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\tab_ugc.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_bg.jpg",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\menu_bg.jpg"
-    },
-    {
-        "merged": "E:\\githubSoft\\test2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_read.png",
-        "source": "E:\\githubSoft\\test2\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\tab_read.png"
-    },
-    {
-        "merged": "E:\\githubSoft\\test2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_focus.png",
-        "source": "E:\\githubSoft\\test2\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\tab_focus.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\练习一\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "E:\\githubSoft\\test2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_back.png",
-        "source": "E:\\githubSoft\\test2\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\main_back.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bar_divider.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\top_bar_divider.png"
-    },
-    {
         "merged": "E:\\githubSoft\\test2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_vote.png",
         "source": "E:\\githubSoft\\test2\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\tab_vote.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bar_bg.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\练习一\\src\\main\\res\\drawable-hdpi\\top_bar_bg.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_pics.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\练习一\\src\\main\\res\\drawable-hdpi\\tab_pics.png"
     },
     {
         "merged": "E:\\githubSoft\\test2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_local.png",
@@ -140,19 +40,15 @@
         "source": "E:\\githubSoft\\test2\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\tab_pics.png"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_local.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\tab_local.png"
+        "merged": "E:\\githubSoft\\test2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bar_divider.png",
+        "source": "E:\\githubSoft\\test2\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\top_bar_divider.png"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_pics.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\tab_pics.png"
+        "merged": "E:\\githubSoft\\test2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_ugc.png",
+        "source": "E:\\githubSoft\\test2\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\tab_ugc.png"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_news.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\tab_news.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_news.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\练习一\\src\\main\\res\\drawable-hdpi\\tab_news.png"
+        "merged": "E:\\githubSoft\\test2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_read.png",
+        "source": "E:\\githubSoft\\test2\\CustomView2\\练习一\\src\\main\\res\\drawable-hdpi\\tab_read.png"
     }
 ]

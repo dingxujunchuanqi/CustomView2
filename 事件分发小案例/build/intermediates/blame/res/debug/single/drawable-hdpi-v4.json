@@ -1,59 +1,19 @@
 [
     {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default1.jpg",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\事件分发小案例\\src\\main\\res\\drawable-hdpi\\default1.jpg"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\girl3.jpg",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\事件分发小案例\\src\\main\\res\\drawable-hdpi\\girl3.jpg"
-    },
-    {
         "merged": "E:\\githubSoft\\test2\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\girl1.jpg",
         "source": "E:\\githubSoft\\test2\\CustomView2\\事件分发小案例\\src\\main\\res\\drawable-hdpi\\girl1.jpg"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\事件分发小案例\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\girl1.jpg",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\事件分发小案例\\src\\main\\res\\drawable-hdpi\\girl1.jpg"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\girl3.jpg",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\事件分发小案例\\src\\main\\res\\drawable-hdpi\\girl3.jpg"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\girl2.jpg",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\事件分发小案例\\src\\main\\res\\drawable-hdpi\\girl2.jpg"
     },
     {
         "merged": "E:\\githubSoft\\test2\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
         "source": "E:\\githubSoft\\test2\\CustomView2\\事件分发小案例\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\girl2.jpg",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\事件分发小案例\\src\\main\\res\\drawable-hdpi\\girl2.jpg"
-    },
-    {
         "merged": "E:\\githubSoft\\test2\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\girl3.jpg",
         "source": "E:\\githubSoft\\test2\\CustomView2\\事件分发小案例\\src\\main\\res\\drawable-hdpi\\girl3.jpg"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default1.jpg",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\事件分发小案例\\src\\main\\res\\drawable-hdpi\\default1.jpg"
-    },
-    {
         "merged": "E:\\githubSoft\\test2\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default1.jpg",
         "source": "E:\\githubSoft\\test2\\CustomView2\\事件分发小案例\\src\\main\\res\\drawable-hdpi\\default1.jpg"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\girl1.jpg",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\事件分发小案例\\src\\main\\res\\drawable-hdpi\\girl1.jpg"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\事件分发小案例\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
         "merged": "E:\\githubSoft\\test2\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\girl2.jpg",

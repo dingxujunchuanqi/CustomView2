@@ -1,13 +1,5 @@
 [
     {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\atGuiguEmpire\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\atGuiguEmpire\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\atGuiguEmpire\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\atGuiguEmpire\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "E:\\githubSoft\\test2\\CustomView2\\atGuiguEmpire\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "E:\\githubSoft\\test2\\CustomView2\\atGuiguEmpire\\src\\main\\res\\layout\\activity_main.xml"
     }

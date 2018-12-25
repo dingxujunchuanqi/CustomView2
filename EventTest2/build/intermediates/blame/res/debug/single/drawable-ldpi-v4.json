@@ -1,13 +1,5 @@
 [
     {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\EventTest2\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\EventTest2\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\EventTest\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\EventTest\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
-    },
-    {
         "merged": "E:\\githubSoft\\test2\\CustomView2\\EventTest2\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
         "source": "E:\\githubSoft\\test2\\CustomView2\\EventTest2\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
     }

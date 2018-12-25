@@ -17,8 +17,12 @@ public class MyLinearLayout extends LinearLayout {
 	 * onInterceptTouchEvent();拦截触摸事件
 	 1.如果返回的是true,将会触发当前View的onTouchEvent();
 	 2.如果返回的是false,事件将会传给孩子
+	 3.如果你重写dispatchTouchEvent 你返回true 或者fals 事件都不会响应，
+	 必须返回 return super.dispatchTouchEvent(ev);
+	 4.  onTouchEvent 判断里面的boolen值必须返回true，你返回false 或者super.onTouchEvent(event)
+	 都不会执行
 
-
+     *
 	 */
 	@Override
 	public boolean onInterceptTouchEvent(MotionEvent ev) {

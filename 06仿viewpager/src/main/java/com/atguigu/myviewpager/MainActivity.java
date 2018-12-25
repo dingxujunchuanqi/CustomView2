@@ -15,6 +15,11 @@ public class MainActivity extends Activity {
     private int[] ids = {R.drawable.a1, R.drawable.a2, R.drawable.a3, R.drawable.a4, R.drawable.a5, R.drawable.a6};
 
     @Override
+    public void onLowMemory() {
+        super.onLowMemory();
+    }
+
+    @Override
     protected void onCreate(Bundle savedInstanceState) {
         requestWindowFeature(Window.FEATURE_NO_TITLE);//隐藏标题
         super.onCreate(savedInstanceState);
@@ -35,13 +40,15 @@ public class MainActivity extends Activity {
         View testview = View.inflate(this,R.layout.test,null);
         myviewpager.addView(testview,2);
 
-
+/**
+ * 动态添加RadioButton
+ */
         for(int i=0;i<myviewpager.getChildCount();i++){
             RadioButton button = new RadioButton(this);
-            button.setId(i);//0~5的id
+            button.setId(i);//0~5的id   //不要忘了加id 以作区分
 
             if(i==0){
-                button.setChecked(true);
+                button.setChecked(true); // 默认选中第一个RadioButton
             }
 
             //添加到RadioGroup

@@ -38,7 +38,7 @@ public class SlideLayout extends FrameLayout {
     }
 
     /**
-     * 当布局文件加载完成的时候回调这个方法
+     * 当布局文件加载完成的时候回调这个方法,获取子view的实例
      */
     @Override
     protected void onFinishInflate() {
@@ -57,7 +57,7 @@ public class SlideLayout extends FrameLayout {
     protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
         super.onMeasure(widthMeasureSpec, heightMeasureSpec);
         contentWidth = contentView.getMeasuredWidth();
-//        contentWidth = getMeasuredWidth();
+//        contentWidth = getMeasuredWidth();//父控件的宽
         menuWidth = menuView.getMeasuredWidth();
 
         viewHeight = getMeasuredHeight();

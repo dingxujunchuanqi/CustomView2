@@ -1,13 +1,5 @@
 [
     {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\EventTest\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\EventTest\\src\\main\\res\\layout\\main.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\EventTest\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\EventTest\\src\\main\\res\\layout\\main.xml"
-    },
-    {
         "merged": "E:\\githubSoft\\test2\\CustomView2\\EventTest\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
         "source": "E:\\githubSoft\\test2\\CustomView2\\EventTest\\src\\main\\res\\layout\\main.xml"
     }

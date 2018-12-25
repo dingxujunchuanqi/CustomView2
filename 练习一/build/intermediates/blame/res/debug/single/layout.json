@@ -1,35 +1,11 @@
 [
     {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\练习一\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu.xml",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\练习一\\src\\main\\res\\layout\\main_menu.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "E:\\githubSoft\\test2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\layout\\main_contant.xml",
         "source": "E:\\githubSoft\\test2\\CustomView2\\练习一\\src\\main\\res\\layout\\main_contant.xml"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu.xml",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\src\\main\\res\\layout\\main_menu.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\练习一\\build\\intermediates\\res\\merged\\debug\\layout\\main_contant.xml",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\练习一\\src\\main\\res\\layout\\main_contant.xml"
-    },
-    {
         "merged": "E:\\githubSoft\\test2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu.xml",
         "source": "E:\\githubSoft\\test2\\CustomView2\\练习一\\src\\main\\res\\layout\\main_menu.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\练习一\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\练习一\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\layout\\main_contant.xml",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\练习一\\src\\main\\res\\layout\\main_contant.xml"
     },
     {
         "merged": "E:\\githubSoft\\test2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",

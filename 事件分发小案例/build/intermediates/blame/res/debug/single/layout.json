@@ -1,26 +1,10 @@
 [
     {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\事件分发小案例\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\layout\\lv_item.xml",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\事件分发小案例\\src\\main\\res\\layout\\lv_item.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\AndroidStudioProjects\\CustomView\\事件分发小案例\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "E:\\githubSoft\\test2\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\layout\\lv_item.xml",
         "source": "E:\\githubSoft\\test2\\CustomView2\\事件分发小案例\\src\\main\\res\\layout\\lv_item.xml"
     },
     {
         "merged": "E:\\githubSoft\\test2\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "E:\\githubSoft\\test2\\CustomView2\\事件分发小案例\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\merged\\debug\\layout\\lv_item.xml",
-        "source": "C:\\AndroidStudioProjects\\CustomView2\\事件分发小案例\\src\\main\\res\\layout\\lv_item.xml"
     }
 ]

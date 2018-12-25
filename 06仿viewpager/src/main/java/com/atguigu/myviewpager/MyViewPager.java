@@ -22,7 +22,7 @@ public class MyViewPager extends ViewGroup {
      * 手势识别器
      * 1.定义出来
      * 2.实例化-把想要的方法给重新
-     * 3.在onTouchEvent()把事件传递给手势识别器
+     * 3.在onTouchEvent()把事件传递给手势识别器 ，手势识别器只能处理事件，没有拦截事件的功能
      *
      *
      */
@@ -33,6 +33,7 @@ public class MyViewPager extends ViewGroup {
      */
     private int currentIndex;
 
+    // 这个是系统的，我们自己也写了一个 MyScroller和系统的功能一样，细节处理上没有系统的好用
     private Scroller scroller;
 
     public MyViewPager(Context context, AttributeSet attrs) {
@@ -42,16 +43,16 @@ public class MyViewPager extends ViewGroup {
 
     private void initView(final Context context) {
         scroller = new Scroller(context);
-        //2.实例化手势识别器
+        //2.实例化手势识别器 GestureDetector
         detector = new GestureDetector(context,new GestureDetector.SimpleOnGestureListener(){
             @Override
             public void onLongPress(MotionEvent e) {
                 super.onLongPress(e);
-                Toast.makeText(context,"长按",Toast.LENGTH_SHORT).show();
+                Toast.makeText(context,"长按事件",Toast.LENGTH_SHORT).show();
             }
 
             /**
-             *
+             *   这个方法可以是容器里面的控件进行移动 的监听
              * @param e1
              * @param e2
              * @param distanceX 在X轴滑动了的距离
@@ -61,19 +62,22 @@ public class MyViewPager extends ViewGroup {
             @Override
             public boolean onScroll(MotionEvent e1, MotionEvent e2, float distanceX, float distanceY) {
 
-
+                Toast.makeText(context,"滑动事件",Toast.LENGTH_SHORT).show();
                 /**
                  *x:要在X轴移动的距离
                  *y:要在Y轴移动的距离
                  */
+                //是容器里面的内容进行滑动，0代表Y坐标不动，只能左右滑动；getScrollY()为0；
                 scrollBy((int)distanceX,0);
+                //或者 scrollBy((int)distanceX,getScrollY());
 
-                return true;
+
+                return true;//返回true 复写父类的功能
             }
 
             @Override
             public boolean onDoubleTap(MotionEvent e) {
-                Toast.makeText(context,"双击",Toast.LENGTH_SHORT).show();
+                Toast.makeText(context,"双击事件",Toast.LENGTH_SHORT).show();
                 return super.onDoubleTap(e);
             }
         });
@@ -84,7 +88,7 @@ public class MyViewPager extends ViewGroup {
         //遍历孩子，给每个孩子指定在屏幕的坐标位置
         for(int i=0;i<getChildCount();i++){
             View childView = getChildAt(i);
-
+             // 坐標點左、上、右、下
             childView.layout(i*getWidth(),0,(i+1)*getWidth(),getHeight());
         }
 
@@ -139,7 +143,7 @@ public class MyViewPager extends ViewGroup {
 
     @Override
     public boolean onTouchEvent(MotionEvent event) {
-        super.onTouchEvent(event);
+        super.onTouchEvent(event); //这个不能删掉
         //3.把事件传递给手势识别器
         detector.onTouchEvent(event);
         switch (event.getAction()){
@@ -210,6 +214,7 @@ public class MyViewPager extends ViewGroup {
 //        scrollTo(currentIndex*getWidth(),getScrollY());
 //        scroller.startScroll(getScrollX(),getScrollY(),distanceX,0);
 
+// Math.abs(distanceX) 滚动的时长，当跨界面点击切换时，会有一个事件控制，多久让你滚动结束；
         scroller.startScroll(getScrollX(),getScrollY(),distanceX,0,Math.abs(distanceX));
 
         //
@@ -225,7 +230,6 @@ public class MyViewPager extends ViewGroup {
            float currX = scroller.getCurrX();
 
            scrollTo((int) currX,0);
-
            invalidate();
        };
     }
@@ -259,6 +263,9 @@ public class MyViewPager extends ViewGroup {
     }
 
     /**
+     *
+     * 当你动态add一个ViewGroup时，必须对父布局中的子view进行测量，否则子view不会显示的哦
+     *
      *
      * @param widthMeasureSpec
      * @param heightMeasureSpec
